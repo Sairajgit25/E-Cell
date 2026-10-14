@@ -23,6 +23,88 @@ export interface BlogPost {
 }
 
 const blogsData: BlogPost[] = [
+    {
+    "id": 12,
+    "title": "Zerodha's Secret to Success? Beyond just brokerage.",
+    "category": "Startup Strategy",
+    "date": "October 15, 2026",
+    "readTime": "4 min read",
+    "excerpt": "Zerodha, founded in 2010 by brothers Nithin and Nikhil Kamath, revolutionized India’s stockbroking industry with low-cost, technology-driven trading solutions.",
+    "image": "/images/zerodha.jpg",
+    "author": "E-Cell, SJCEM",
+    "authorRole": "Startup Strategy Series",
+    "linkedinUrl": "https://lnkd.in/p/daw9kpjK",
+    "content": {
+      "intro": "Zerodha, the leading stock brokerage firm in India is not just about trading. Founder and CEO, Nithin Kamath and his brother Nikhil Kamath have consistently emphasized the company's commitment to building a financial ecosystem that empowers investors.",
+      "sections": [
+        {
+          "heading": "Business Model and Innovation",
+          "body": "Zerodha pioneered the discount brokerage model in India, charging zero brokerage for equity delivery trades and a flat fee of ₹20 per order for intraday and derivatives trading.This approach significantly reduced trading costs for retail investors and attracted a large client base. The company also developed its own in-house trading platforms, including the flagship Kite app, providing seamless access to equities, derivatives, commodities, currencies, and mutual funds"
+        }
+      ],
+      "keyTakeaways": [
+        "Zerodha quickly became a market leader, surpassing traditional brokers to become India’s largest retail stockbroker by active clients in 2019.",
+        "Beyond trading, Zerodha has invested in investor education through its Varsity program, led by Karthik Rangappa, and other community initiative",
+        "Zerodha’s story is one of disruption, innovation, and accessibility, transforming retail trading in India. By combining technology, low costs, and education, it has empowered millions of investors and set a new standard in the brokerage industry.",
+        "Zerodha's commitment to community building is also a defining feature. Their ecosystem of products and services including Rainmatter a startup incubator for fintech and health tech companies, showcases their vision of fostering innovation beyond their core business."
+      ]
+    }
+  },
+    {
+    "id": 11,
+    "title": "👓Lenskart Startup Story: How It’s Making Eyewear Accessible and Empowering India with Clear Vision.",
+    "category": "First Principles & Frameworks",
+    "date": "September 30, 2026",
+    "readTime": "4 min read",
+    "excerpt": "Lenskart, India’s leading eyewear brand, has transformed how people perceive and purchase glasses. Co-founded by Peyush Bansal, the company’s success lies not just in selling spectacles but in redefining accessibility, affordability, and innovation in eye care.",
+    "image": "/images/lenskart.jpg",
+    "author": "E-Cell, SJCEM",
+    "authorRole": "Startup Strategy Series",
+    "linkedinUrl": "https://lnkd.in/p/d5A3shM9",
+    "content": {
+      "intro": "The eyewear industry in India continues to show strong growth. In 2025, the revenue generated in the Indian eyewear market is estimated to reach $6.24 billion. The market is expected to grow at a compounded annual growth rate (CAGR) of 5.26% from 2025 to 2029. Among the various segments, Spectacle Lenses remains the largest, with an expected market volume of $2.85 billion in 2025.",
+      "sections": [
+        
+        {
+          "heading": "What sets Lenskart apart is its omnichannel presence",
+          "body": "a powerful combination of online and offline stores, ensuring reach across urban and rural markets. By embracing a direct-to-consumer model, they’ve been able to maintain quality while keeping prices affordable."
+        }
+      ],
+      "keyTakeaways": [
+        "The company also invests heavily in innovation and R&D, designing stylish, durable eyewear tailored for Indian consumers.",
+        "At its core, Lenskart is not just about glasses—it’s about enabling vision and empowering lives with clarity and confidence.",
+        "heir value approach places a strong emphasis on providing premium eyeglasses at affordable costs.",
+        "heir value approach places a strong emphasis on providing premium eyeglasses at affordable costs."
+      ]
+    }
+  },
+    {
+    "id": 10,
+    "title": "Meesho: Empowering India’s Entrepreneurs 🌍",
+    "category": "Buisness Lesson",
+    "date": "September 30, 2026",
+    "readTime": "4 min read",
+    "excerpt": "Meesho is a social commerce platform that empowers small businesses and entrepreneurs in India. It allows individuals to start their own online business with zero investment, leveraging social networks to sell products.",
+    "image": "/images/meshoo.jpg",
+    "author": "E-Cell, SJCEM",
+    "authorRole": "Startup Strategy Series",
+    "linkedinUrl": "https://lnkd.in/p/dsRBtzng",
+    "content": {
+      "intro": "Meesho, founded by Vidit Aatrey and Sanjeev Barnwal, has become a game-changer in India’s e-commerce landscape. Unlike traditional platforms, Meesho isn’t just about online shopping—it’s about democratizing commerce and empowering millions of small entrepreneurs.",
+      "sections": [
+        {
+          "heading": "Meesho is an online resale platform that allows anybody to establish a company without having to put up any money",
+          "body": "Meesho, India's largest resale platform, was founded in 2015. The Meesho app essentially connects manufacturers to resellers. Manufacturers list their commodities on the Meesho shopping app, which allows merchants to choose from any of their products and sell them to customers using social networks.",
+        }
+      ],
+      "keyTakeaways": [
+        "By enabling individuals especially women and small business owners—to start and grow online shops with zero investment, Meesho has created a platform that blends affordability, accessibility, and empowerment.",
+        "What sets Meesho apart is its social commerce model, leveraging platforms like WhatsApp, Facebook, and Instagram to help entrepreneurs build businesses from their smartphones.",
+        "This approach has opened up opportunities for rural and urban entrepreneurs alike, creating a truly inclusive ecosystem.",
+        "With its focus on affordable pricing, digital inclusion, and innovation, Meesho has scaled rapidly, becoming one of India’s most loved online marketplaces. "
+      ]
+    }
+  },
   {
     "id": 9,
     "title": "10 Startup Ideas Every College Student Can Start With Low Investment",
